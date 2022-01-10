@@ -17,9 +17,9 @@ This would give you the following Matrix:
 
 ## Specifications
 
-You will create one class that has 3 methods: one for adding matrices, one for multiplying a matrix by a scalar (a number), one for subtracting matrices (this is the same as multiplying the second matrix by -1 and then adding, so utilize the two previous methods), and one for printing a matrix.
+You will fill in the 3 methods in the `Main` class starter code: one for adding matrices, one for multiplying a matrix by a scalar (a number), one for subtracting matrices (this is the same as multiplying the second matrix by -1 and then adding, so utilize the two previous methods), and one for printing a matrix.
 
-Each method should print the result. 
+Each method should return a new array with the result.
 
 Note: use regular `for` loops in the `sum` and `product` methods.
 
